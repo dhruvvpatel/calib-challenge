@@ -52,6 +52,3 @@ the camera height *h*.
 #### Assumption
 - Flat Ground Assumption
 
-### Rotation Matrix Estimation
-
-# calibration-challenge
